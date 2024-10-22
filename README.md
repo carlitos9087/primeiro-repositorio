@@ -21,7 +21,7 @@ O sistema é acionado quando o detector de movimento identifica algo em sua fren
 
 1. Conecte o Arduino Uno ao seu computador.
 2. Carregue o código no Arduino.
-3. Configure os componentes conforme o diagrama de circuito fornecido (se houver).
+3. Configure os componentes conforme o diagrama de circuito fornecido.
 4. O sensor de presença estará pronto para uso!
 
 Agradeço pelo interesse e estou aberto a feedbacks e sugestões!
